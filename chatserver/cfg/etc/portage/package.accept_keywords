@@ -1,0 +1,50 @@
+dev-vcs/git ~x86
+
+# newer perl for newer git
+#=dev-lang/perl-5.24.0-r1 ~x86
+dev-lang/perl ~x86
+virtual/perl-* ~x86
+perl-*/* ~x86
+
+# better browser :)
+www-client/links ~x86
+# even better browser ;)
+=www-client/elinks-9999 **
+
+# recent-ish weechat (even if some derp thinks its 64bit only??)
+<net-irc/weechat-9999 **
+
+# letsencrypt stuff
+=app-crypt/certbot-9999 **
+dev-python/zope-component
+=app-crypt/acme-9999 **
+dev-python/pyopenssl
+dev-python/parsedatetime
+dev-python/pythondialog
+dev-python/zope-event
+dev-python/pyrfc3339
+dev-python/configargparse
+dev-python/psutil
+dev-python/cryptography
+
+#apps that could use an update  ;)
+sys-devel/make
+x11-terms/xterm
+x11-wm/fluxbox
+app-emulation/wine
+net-proxy/squid
+net-dns/ddclient
+www-servers/lighttpd
+app-misc/screen
+net-fs/sshfs
+app-editors/nano
+app-misc/binwalk
+
+#for binwalk
+dev-python/pyliblzma
+
+sci-electronics/kicad
+
+mail-client/mutt
+
+x11-themes/elementary-xfce-icon-theme

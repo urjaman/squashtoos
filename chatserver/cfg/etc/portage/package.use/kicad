@@ -1,0 +1,2 @@
+dev-libs/boost nls
+media-libs/mesa -classic -dri3 -egl -gbm

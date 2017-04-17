@@ -1,0 +1,8 @@
+xfce-base/xfce4-settings -xklavier
+xfce-base/xfce4-session -xscreensaver
+xfce-base/xfconf -perl
+gnome-base/gvfs -udev
+media-libs/libcanberra -sound
+xfce-base/thunar -dbus
+xfce-base/xfdesktop -thunar
+x11-misc/spacefm -video-thumbnails -startup-notification -gtk3 gtk2

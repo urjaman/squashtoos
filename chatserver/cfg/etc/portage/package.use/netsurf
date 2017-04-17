@@ -1,0 +1,2 @@
+www-client/netsurf fbcon fbcon_frontend_linux truetype -svg -rosprite -mng -webp -svgtiny
+media-libs/freetype -X
